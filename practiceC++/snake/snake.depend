@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489114042 source:/Users/macbook/Desktop/liuhr/practiceC++/snake/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
